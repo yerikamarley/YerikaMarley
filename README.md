@@ -8,38 +8,38 @@
   Siempre aprendiendo y creando soluciones con propósito.
 </p>
 
-<hr style="border: 1px solid #1c3f3f; margin: 30px 0;" />
 
-<!-- ESTADÍSTICAS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yerikamarley&show_icons=true&theme=github_dark&hide_border=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=yerikamarley&theme=github-dark&hide_border=true&locale=es" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerikamarley&layout=compact&theme=github_dark&hide_border=true" height="150" />
-</div>
+
+
 
 <hr style="border: 1px solid #1c3f3f; margin: 30px 0;" />
 
-<!-- GIF + TECNOLOGÍAS  -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+<!-- LENGUAJES y GIF  -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; max-width: 900px; margin: auto;">
 
-  <!-- GIF ANIMADO -->
+  <!-- Lenguajes más usados -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerikamarley&layout=compact&theme=github_dark&hide_border=true" height="180" />
+  </div>
+
+  <!-- GIF animado -->
   <div>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdpcms3dXY4MWs4N2JxZG10eTlib2xmbTJrY3JuczVid3B6dXBldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif" height="180" />
   </div>
 
-  <!-- TECNOLOGÍAS -->
+  <!-- Tecnologías -->
   <div>
     <h3 align="center" style="color: #e0f7fa;">🛠️ Tecnologías</h3>
     <p align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="35" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" />
     </p>
   </div>
 
@@ -69,7 +69,7 @@
 
 <hr style="border: 1px solid #1c3f3f; margin: 30px 0;" />
 
-<!-- ANIMACIÓN DE LA SERPIENTE -->
+<!-- ANIMACIÓN SERPIENTE -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/yerikamarley/yerikamarley/output/snake.svg" alt="Snake animation" />
 </div>

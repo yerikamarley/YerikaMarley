@@ -16,12 +16,10 @@
   <!-- Lenguajes más usados -->
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerikamarley&layout=compact&theme=github_dark&hide_border=true" height="180" />
+     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdpcms3dXY4MWs4N2JxZG10eTlib2xmbTJrY3JuczVid3B6dXBldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif" height="180" />
   </div>
 
-  <!-- GIF animado -->
-  <div>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdpcms3dXY4MWs4N2JxZG10eTlib2xmbTJrY3JuczVid3B6dXBldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif" height="180" />
-  </div>
+ 
 </div>
 
 <hr style="border: 1px solid #1c3f3f; margin: 30px 0;" />

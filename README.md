@@ -8,14 +8,10 @@
   Siempre aprendiendo y creando soluciones con propósito.
 </p>
 
-
-
-
-
 <hr style="border: 1px solid #1c3f3f; margin: 30px 0;" />
 
-<!-- LENGUAJES y GIF  -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap; max-width: 900px; margin: auto;">
+<!-- CONTENEDOR LENGUAJES y GIF  -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: nowrap;">
 
   <!-- Lenguajes más usados -->
   <div>
@@ -26,23 +22,23 @@
   <div>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdpcms3dXY4MWs4N2JxZG10eTlib2xmbTJrY3JuczVid3B6dXBldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif" height="180" />
   </div>
+</div>
 
-  <!-- Tecnologías -->
-  <div>
-    <h3 align="center" style="color: #e0f7fa;">🛠️ Tecnologías</h3>
-    <p align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="35" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" />
-    </p>
-  </div>
-
+<hr style="border: 1px solid #1c3f3f; margin: 30px 0;" />
+<!-- TECNOLOGÍAS -->
+<div align="center" style="margin-top: 30px;">
+  <h3>🛠️ Tecnologías</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" />
+  </p>
 </div>
 
 <hr style="border: 1px solid #1c3f3f; margin: 30px 0;" />

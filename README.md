@@ -8,6 +8,9 @@
   Siempre aprendiendo y creando soluciones con propósito.
 </p>
 
+🔗 [Conéctate conmigo en LinkedIn](https://www.linkedin.com/in/yerika-marley-basto-rozo-605354150/)
+🔗 [Conéctate conmigo en pagina Web ](https://yerikamarley-4a7bd.web.app/)
+
 <hr style="border: 1px solid #1c3f3f; margin: 30px 0;" />
 
 <!-- CONTENEDOR LENGUAJES y GIF  -->
@@ -66,6 +69,9 @@
 <!-- ANIMACIÓN SERPIENTE -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/yerikamarley/yerikamarley/output/snake.svg" alt="Snake animation" />
+  
+  
 </div>
+
 
 </div>
